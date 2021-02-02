@@ -1,0 +1,26 @@
+{
+  "name": "William Wardlow",
+  "website": "https://willwardlow.github.io/",
+  "linkedin": "https://www.linkedin.com/in/tomatohammado/",
+  "github": "willwardlow",
+  "email": "wardlow.william@gmail.com",
+  "proficientTechnologies": [
+      "Javascript",
+      "HTML",
+      "CSS",
+      "React",
+      "Node",
+      "Python"
+  ],
+  "softSkills": [
+    "Effective Communication",
+    "Active Listening",
+    "Problem Solving",
+    "Time Management"
+  ],
+  "hobbies": [
+      "Cooking",
+      "Bike Riding",
+      "Photography"
+  ]
+}

@@ -1,0 +1,1 @@
+Created a resume with with hard skills I've gained thus far.
